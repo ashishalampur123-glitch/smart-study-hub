@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study Hub",
+  "description": "A comprehensive college study portal for B.Tech CSE students to organize study materials, practice MCQs, plan daily tasks, and track learning progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
